@@ -17,7 +17,7 @@ Run the following command to install Ollama:
 curl -fsSL https://ollama.com/install.sh | sh
 ```
 For more info, visit the Ollama website.
-https://ollam.com
+https://ollama.com/
 
 2. Download and run the LLaMA 3.2 model
 Start the LLaMA 3.2 model locally by running:
