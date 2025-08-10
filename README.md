@@ -40,7 +40,11 @@ For Debian/Ubuntu:
 ```bash
 sudo apt install xclip zenity
 ```
-5. Run ClipboardAI
+5. Make executable
+ ```bash
+   chmod +x clipboard_ai.sh
+   ```
+6. Run ClipboardAI
    ```bash
    ./clipboard_ai.sh
    ```
